@@ -7,5 +7,5 @@
  
  ### Cuties: [Quckixy](https://github.com/Quckixy), [Basket](https://github.com/basketreally)
  ###### im Nami contributor, Basket Selfbot contributor, BlueCrusher developer.
-
+<p align="center"> My profile watched </p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{qquace}/count.svg" /></p> 
