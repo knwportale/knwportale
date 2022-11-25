@@ -1,9 +1,9 @@
 # Small developer
 
 ## My languages:
-> + **Python** - `85%`
-> + **HTML, CSS** - `30%`
-> + **JAVA** - `5% (Started learning)`
+> + **Python** - `55%`
+> + **HTML, CSS** - `20%`
+> + **JAVA** - `5.4% (Started learning)`
  
  ### Cuties: [yunfachi](https://github.com/yunfachi)
  ###### im Nami contributor, Basket Selfbot contributor, BlueCrusher developer.
